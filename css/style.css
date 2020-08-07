@@ -9,7 +9,8 @@ body {
   font-size: 0.7rem;
 }
 h2,
-.main-header {
+.main-header,
+.modal-close {
   font-family: "Indie Flower", cursive;
 }
 .grid-container {
